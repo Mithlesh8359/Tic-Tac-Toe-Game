@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple Tic Tac Toe game built using Java AWT. Play as X or O and challenge your friends to a game of wits!
+A simple Tic Tac Toe game built using Java AWT. Play as X or O and challenge your friends to a game of win!
 
 ## Features
 

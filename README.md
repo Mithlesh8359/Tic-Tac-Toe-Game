@@ -30,6 +30,11 @@ A simple Tic Tac Toe game built using Java AWT. Play as X or O and challenge you
 
 
 </pre>
+
+## LinkedIn Post
+
+Check out my LinkedIn post showcasing(video) the Tic-Tac-Toe Game: [View Post](https://www.linkedin.com/posts/mithlesh8359_excited-to-share-my-tic-tac-toe-game-activity-7250822506603773954-ir2J?utm_source=share&utm_medium=member_desktop)
+
 ## Code Structure
 
 The code is organized into a single Java file, `tic_toc1.java`, which contains the game logic and GUI components.
